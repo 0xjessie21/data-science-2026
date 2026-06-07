@@ -2,7 +2,7 @@
 
 # 📊 Data Science 2026
 
-### `Pengantar Data Science · 200302305 · UNSIA 2026`
+### `Data Science · UNSIA 2026`
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
@@ -27,7 +27,7 @@
   <tr><td><b>Kelas</b></td><td>IF401</td></tr>
   <tr><td><b>Program Studi</b></td><td>Informatika</td></tr>
   <tr><td><b>Mata Kuliah</b></td><td>Pengantar Data Science (200302305)</td></tr>
-  <tr><td><b>Koordinator</b></td><td>Syahid Abdullah, S.Si, M.Kom</td></tr>
+  <tr><td><b>Dosen</b></td><td>Syahid Abdullah, S.Si, M.Kom</td></tr>
 </table>
 
 ---
@@ -108,6 +108,6 @@ Tujuh pertemuan ini membentuk satu pipeline penuh dari **raw data → model**. B
 
 <div align="center">
 
-`© 2026 · Mohammad Riyan Syaifunahar · NIM 240401010292 · Informatika UNSIA`
+`© 2026 · Mohammad Riyan Syaifunahar · 240401010292 · PJJ Informatika UNSIA`
 
 </div>
