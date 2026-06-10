@@ -25,7 +25,7 @@
   <tr><td><b>Nama Lengkap</b></td><td>Mohammad Riyan Syaifunahar</td></tr>
   <tr><td><b>NIM</b></td><td>240401010292</td></tr>
   <tr><td><b>Kelas</b></td><td>IF401</td></tr>
-  <tr><td><b>Program Studi</b></td><td>Informatika</td></tr>
+  <tr><td><b>Program Studi</b></td><td>Informatika PJJ</td></tr>
   <tr><td><b>Mata Kuliah</b></td><td>Data Science</td></tr>
   <tr><td><b>Dosen</b></td><td>Syahid Abdullah, S.Si, M.Kom</td></tr>
 </table>
